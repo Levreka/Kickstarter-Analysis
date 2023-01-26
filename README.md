@@ -53,6 +53,7 @@ This shows that 50% have Fail and 50% have succeeded at those ranges. This range
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1: The best outcome is reached if the launch date happens in May
 
 2: Most Fundraisers happen during the months of April and August.
@@ -64,11 +65,13 @@ This shows that 50% have Fail and 50% have succeeded at those ranges. This range
 2: Percentage of failure increases as the volume of outcomes increases.
 
 - What are some limitations of this dataset?
+
 1:Time spam, we didn’t calculated how long an event actually lasted.
 
 2: location- we have location by country, but not by state or city.
 
 - What are some other possible tables and/or graphs that we could create?
+
 1: we can create a table showing spam of time meaning, we already determine that month of May seems to be the best date to launch a fundraiser. We can see if time duration plays any roll in success. Because a long duration would be logical to achieve its goal, but what if is not. 
 
 2: if we had more precise location, I believe we could pinpoint better if state or city rather than country has an impact if any at all to the success of any fundraiser.
