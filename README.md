@@ -39,6 +39,7 @@ Looking at the graph we start seeing a pattern form in the graph. We can see 3 i
  * 15000 to 1999
  * 34999 to 35000 
  * 44999 to 45000
+
 This shows that 50% have Fail and 50% have succeeded at those ranges. This ranges are a gamble and if Louis fundraiser were run around this ranges, then perhaps is best to be avoided for the future. The highest percentage of successes is found at the smallest fundraiser goals. shrinking number of fundraisers start happening the higher the funding goals are, and we also began to see smaller percentages of success. Therefore, the width of the pattern we observe in the graph shrinks. 
  
  ![image](https://user-images.githubusercontent.com/90356052/134831760-72e1cf17-05df-4fd1-9cb3-ca0b5d56b8ae.png)
