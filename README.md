@@ -21,10 +21,10 @@
 -In this analysis we used the following ranges to determine percentage of successful, fail, and cancel campaigns for “plays”:
 Goal 
 
-*Less Than 1000
-*1000 to 4999
-*5000 to 9999
-*10000 to 14999
+* Less Than 1000
+* 1000 to 4999
+* 5000 to 9999
+* 10000 to 14999
 *15000 to 19999
 *20000 to 24999
 *25000 to 29999
