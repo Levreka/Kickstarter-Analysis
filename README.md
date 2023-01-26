@@ -54,10 +54,13 @@ This shows that 50% have Fail and 50% have succeeded at those ranges. This range
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1: The best outcome is reached if the launch date happens in May
+
 2: Most Fundraisers happen during the months of April and August.
 
 - What can you conclude about the Outcomes based on Goals?
+
 1: The highest success rate is found at fundraiser goals of less than a 1000
+
 2: Percentage of failure increases as the volume of outcomes increases.
 
 - What are some limitations of this dataset?
