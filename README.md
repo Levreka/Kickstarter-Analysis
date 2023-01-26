@@ -25,14 +25,14 @@ Goal
 * 1000 to 4999
 * 5000 to 9999
 * 10000 to 14999
-*15000 to 19999
-*20000 to 24999
-*25000 to 29999
-*30000 to 34999
-*35000 to 39999
-*40000 to 44999
-*45000 to 49999
-*Greater than 50000
+* 15000 to 19999
+* 20000 to 24999
+* 25000 to 29999
+* 30000 to 34999
+* 35000 to 39999
+* 40000 to 44999
+* 45000 to 49999
+* Greater than 50000
 
 Looking at the graph we start seeing a pattern form in the graph. We can see 3 intersections 
  Each intersection between the “failed” and “successful” lines at the ranges between 15000 to 1999, 34999 to 35000 and 44999 to 45000. This shows that 50% have Fail and 50% have succeeded at those ranges. This ranges are a gamble and if Louis fundraiser were run around this ranges, then perhaps is best to be avoided for the future. The highest percentage of successes is found at the smallest fundraiser goals. shrinking number of fundraisers start happening the higher the funding goals are, and we also began to see smaller percentages of success. Therefore, the width of the pattern we observe in the graph shrinks. 
