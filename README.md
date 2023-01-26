@@ -20,6 +20,7 @@
 ### Analysis of Outcomes Based on Goals
 -In this analysis we used the following ranges to determine percentage of successful, fail, and cancel campaigns for “plays”:
 Goal 
+
 Less Than 1000
 1000 to 4999
 5000 to 9999
@@ -39,9 +40,6 @@ Looking at the graph we start seeing a pattern form in the graph. We can see 3 i
  
  ![image](https://user-images.githubusercontent.com/90356052/134831760-72e1cf17-05df-4fd1-9cb3-ca0b5d56b8ae.png)
 
- Each intersection between the “failed” and “successful” lines at the ranges between 15000 to 1999, 34999 to 35000 and 44999 to 45000. This shows that 50% have Fail and 50% have succeeded at those ranges. This ranges are a gamble and if Louis fundraiser were run around this ranges, then perhaps is best to be avoided for the future. The highest percentage of successes is found at the smallest fundraiser goals. shrinking number of fundraisers start happening the higher the funding goals are, and we also began to see smaller percentages of success. Therefore, the width of the pattern we observe in the graph shrinks. 
-
- 
 
 ### Challenges and Difficulties Encountered
 -Challenge and difficulties 1: hard to do contrast analysis not due to the data from kickstart, but by lack of Data from Louis. Since we don’t know when her launch date was, goal amount and even if she succeeded or not on her fundraiser. We can only do analysis on the data we currently have and provide basic suggestions. If we had more information on behalf of Louise we could take our analysis a step further and see how she can best position her camping to maximize the chances of her campaign being successful. 
