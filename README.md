@@ -62,7 +62,7 @@ This shows that 50% have Fail and 50% have succeeded at those ranges. This range
 
 1: The highest success rate is found at fundraiser goals of less than a 1000
 
-2: Percentage of failure increases as the volume of outcomes increases.
+2: Number of failure increases as the fundraiser goal increases showing a probable correlation.
 
 - What are some limitations of this dataset?
 
